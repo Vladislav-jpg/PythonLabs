@@ -24,5 +24,3 @@ a, b = np.array([1,2]), np.array([2,1])
 print(a>b, a<b, a==b)
 #40
 np.clip([-5, 5, 15], 0, 10)
-import matplotlib as mp
-mp.
